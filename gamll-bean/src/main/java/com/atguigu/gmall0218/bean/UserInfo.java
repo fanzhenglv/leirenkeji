@@ -33,6 +33,8 @@ public class UserInfo implements Serializable {
     private String headImg;
     @Column
     private String userLevel;
+	@Column
+    private String userLeve;
 
 
 }
